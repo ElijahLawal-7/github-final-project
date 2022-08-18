@@ -60,7 +60,7 @@ Scroll to the bottom of the page. Ensure that the radio button to commit directl
 
 Save the URL of CODE_OF_CONDUCT.md file in a notepad to submit later for peer review.
 
-## Check Instruction file for other files. 
+# Check Instruction file for other files. 
 
 ## Author:
 
